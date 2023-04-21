@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ankit
-- 👀 I’m interested in Pyhton based software development
+- 👀 I’m interested in Python based software development
 - 🌱 I’m currently learning Python and Git
 - 💞️ I’m looking to collaborate on logic related problem for python coding
 - 📫 How to reach me : mail me @ vshlkumar051@gmail.com
